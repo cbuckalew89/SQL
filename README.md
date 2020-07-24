@@ -3,15 +3,25 @@ This is a Python ETL pipeline, that extracts user and songs activity data to cre
 
 Datasets
 song dataset - json data that contains artist and song information
+
 log dataset - jsons data that contains user activity
+
 Star schema created by pipeline
+
 Fact table
+
 songplays - records in log data associated with song plays
+
 Dimension tables
+
 users - users associated with songs being played
+
 songs - songs that are being played by users
+
 aritsts - artist of the songs that are being played
+
 time - time when songs are played
+
 Running the pipeline
 
 To run we need python3 and postgres.
