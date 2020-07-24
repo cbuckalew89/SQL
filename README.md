@@ -29,4 +29,4 @@ Once the star schema tables are created you can run the pipeline
 To run the pipeline run:
 
 python3 etl.py
-this will extract the data from the json files and insert it in the star schema.
+this will extract the data from the json files and insert it in the star schema, insert your own json files.
