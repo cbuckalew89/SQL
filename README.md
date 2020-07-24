@@ -13,6 +13,7 @@ songs - songs that are being played by users
 aritsts - artist of the songs that are being played
 time - time when songs are played
 Running the pipeline
+
 To run we need python3 and postgres.
 
 Create the star schema
